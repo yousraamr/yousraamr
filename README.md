@@ -43,7 +43,6 @@ Hi 👋, I'm Yousra Amr<br>Software Engineer | Flutter Enthusiast | Full Stack D
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,7 +52,6 @@ Hi 👋, I'm Yousra Amr<br>Software Engineer | Flutter Enthusiast | Full Stack D
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![ProjectLibre](https://img.shields.io/badge/ProjectLibre-0052CC?style=for-the-badge&logo=libreoffice&logoColor=white)
-
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![SFML](https://img.shields.io/badge/SFML-008080?style=for-the-badge)
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge)
