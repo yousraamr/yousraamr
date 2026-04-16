@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Yousra Amr<br>Software Engineer | Flutter Enthusiast | Full Stack Developer<br>🔭 I’m currently working on **mobile and web apps using Flutter and Spring Boot**<br>🌱 I’m learning **microservices, DevOps, and AI integration**<br>👯 I’m open to collaborating on **full-stack projects, hackathons, and open source**<br>💬 Ask me about **Flutter, Spring Boot, RESTful APIs, or anything backend-related**<br>
+Hi 👋, I'm Yousra Amr<br>Software Engineer | Flutter Enthusiast | Full Stack Developer<br>🔭 I’m currently working on **mobile and web apps using Flutter and Spring Boot**<br>🌱 I’m learning **microservices, DevOps, and AI integration**<br>👯 I’m open to collaborating on **full-stack projects, flutter, and open source**<br>💬 Ask me about **Flutter, Spring Boot, RESTful APIs, or anything backend-related**<br>
 
 
 ## 🌐 Socials:
