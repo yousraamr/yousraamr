@@ -66,6 +66,10 @@ Hi 👋, I'm Yousra Amr<br>Software Engineer | Flutter Enthusiast | Full Stack D
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yousraamr&theme=dark&hide_border=false)
 
+# 📈 Contribution Activity Graph
+
+[![Yousra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yousraamr&theme=github-compact&hide_border=true)](https://github.com/yousraamr)
+
 ---
 
 
