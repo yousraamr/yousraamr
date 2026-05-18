@@ -63,9 +63,12 @@ Hi 👋, I'm Yousra Amr<br>Software Engineer | Flutter Enthusiast | Full Stack D
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yousraamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yousraamr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousraamr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Yousra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousraamr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yousraamr&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousraamr&theme=dark&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yousraamr&icon=6&color=0)](https://visitcount.itsvg.in)
